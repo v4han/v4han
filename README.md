@@ -1,5 +1,5 @@
 # 💫 About Me:
-Python-based Machine Learning and AI work.
+Python-based Machine work.
 
 
 ## 🌐 Socials:
